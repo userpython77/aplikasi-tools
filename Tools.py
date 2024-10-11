@@ -1,7 +1,7 @@
 import requests
 
 # Personal Access Token
-token = 'YOUR_GITHUB_ACCESS_TOKEN'
+token = 'token api key'
 
 # Header dengan token untuk autentikasi
 headers = {'Authorization': f'token {token}'}
